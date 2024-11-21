@@ -10,6 +10,7 @@
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=flat&logo=ant-design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 
 #### Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
